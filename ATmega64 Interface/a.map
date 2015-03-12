@@ -1,0 +1,25 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+Icount                                                            0x0260       2
+Ocount                                                            0x0262       2
+Is                                                                0x0264      40
+Os                                                                0x028C      40
+GoCommand                                                         0x02B4       1
+state                                                             0x02B5       2
+data                                                              0x02B7       2
+ec                                                                0x02B9       2
+_seed                                                             0x02BB       4
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+Imask                                                             R4,R5        2
+Omask                                                             R6,R7        2
+Lines                                                             R8,R9        2
+Columns                                                           R10,R11      2
+D                                                                 R12,R13      2

@@ -1,0 +1,9 @@
+C:\Documents and Settings\nima\my documents\visual studio 2010\Projects\BlackBoxAnalizer\BlackBoxAnalizer\bin\Debug\BlackBoxAnalizer.exe
+C:\Documents and Settings\nima\my documents\visual studio 2010\Projects\BlackBoxAnalizer\BlackBoxAnalizer\bin\Debug\BlackBoxAnalizer.pdb
+C:\Documents and Settings\nima\my documents\visual studio 2010\Projects\BlackBoxAnalizer\BlackBoxAnalizer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nima\my documents\visual studio 2010\Projects\BlackBoxAnalizer\BlackBoxAnalizer\obj\x86\Debug\BlackBoxAnalizer.mainForm.resources
+C:\Documents and Settings\nima\my documents\visual studio 2010\Projects\BlackBoxAnalizer\BlackBoxAnalizer\obj\x86\Debug\BlackBoxAnalizer.Properties.Resources.resources
+C:\Documents and Settings\nima\my documents\visual studio 2010\Projects\BlackBoxAnalizer\BlackBoxAnalizer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\nima\my documents\visual studio 2010\Projects\BlackBoxAnalizer\BlackBoxAnalizer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\nima\my documents\visual studio 2010\Projects\BlackBoxAnalizer\BlackBoxAnalizer\obj\x86\Debug\BlackBoxAnalizer.exe
+C:\Documents and Settings\nima\my documents\visual studio 2010\Projects\BlackBoxAnalizer\BlackBoxAnalizer\obj\x86\Debug\BlackBoxAnalizer.pdb
